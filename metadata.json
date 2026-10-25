@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio Pro - Generator QR Code & Logo Perusahaan",
+  "description": "Generator QR Code profesional dengan kustomisasi warna, gradasi, bentuk pola, dan logo perusahaan kustom dengan unduhan resolusi tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
